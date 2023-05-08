@@ -1,4 +1,4 @@
-### Olá, eu sou o Marx 👋 <s2>
+### Olá, eu sou o Marx 💪 🤓 ☕ <>
 
 <div>
   
@@ -19,3 +19,4 @@
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Technologies
