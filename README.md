@@ -7,9 +7,9 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=marxeugenio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marxeugenio&layout=compact&langs_count=16&theme=dark"/>
  
-<a href="https://github.com/marxeugenio/marxeugenio">
-  <img align="center" src="https://api.githubtrends.io/user/svg/marxeugenio/langs?time_range=one_year&use_percent=True&theme=bright_lights" />
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marxeugenio=python,tcl&title_color=FFFFFF&text_color=FFFFFF&bg_color=071A2C&theme=tokyonight&line_height=27&icon_color=4194FD&langs_count=3" /> -->
+<a href="https://github.com/marxeugenio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marxeugenio&layout=compact&theme=radical" />
+</a>
 </div>
 <br>
 
